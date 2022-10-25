@@ -4,7 +4,8 @@ using System.Reflection;
 
 namespace HelloWorld{
     class Program{
-        static void Main (string[]args){                 
+        static void Main (string[]args){  
+          //This repository follows the https://www.w3resource.com/csharp-exercises/basic/index.php exercises              
           //FirstExercise();
           //SecondExercise();
           //ThirdExercise();
@@ -61,7 +62,6 @@ namespace HelloWorld{
             num3 = Convert.ToInt32(Console.ReadLine());
             int output = num1*num2*num3;
             Console.WriteLine("Output: "+num1+" x "+num2+" x "+num3+ " = "+output);
-
         } 
 
        
