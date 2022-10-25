@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\orcai\\OneDrive\\Plocha\\C Sharp\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\orcai\\OneDrive\\Dokumenty\\git\\C Sharp\\Hello World\\HelloWorld.csproj": {}
   },
   "projects": {
-    "c:\\Users\\orcai\\OneDrive\\Plocha\\C Sharp\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\orcai\\OneDrive\\Dokumenty\\git\\C Sharp\\Hello World\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\orcai\\OneDrive\\Plocha\\C Sharp\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\orcai\\OneDrive\\Dokumenty\\git\\C Sharp\\Hello World\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "c:\\Users\\orcai\\OneDrive\\Plocha\\C Sharp\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\orcai\\OneDrive\\Dokumenty\\git\\C Sharp\\Hello World\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\orcai\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\orcai\\OneDrive\\Plocha\\C Sharp\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\orcai\\OneDrive\\Dokumenty\\git\\C Sharp\\Hello World\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\orcai\\AppData\\Roaming\\NuGet\\NuGet.Config"

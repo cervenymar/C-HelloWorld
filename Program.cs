@@ -6,12 +6,7 @@ namespace HelloWorld{
     class Program{
         static void Main (string[]args){  
           //This repository follows the https://www.w3resource.com/csharp-exercises/basic/index.php exercises              
-          //FirstExercise();
-          //SecondExercise();
-          //ThirdExercise();
-          //FourthExercise();
-          //FifthExercise(5,6);
-          SixthExercise();          
+          EighthExercise();        
         }
         static void FirstExercise(){            
             var getName = System.Reflection.MethodBase.GetCurrentMethod()!.Name;
@@ -62,8 +57,39 @@ namespace HelloWorld{
             num3 = Convert.ToInt32(Console.ReadLine());
             int output = num1*num2*num3;
             Console.WriteLine("Output: "+num1+" x "+num2+" x "+num3+ " = "+output);
-        } 
-
-       
+        }
+        static void SeventhExercise(){
+            int num1, num2;
+            Console.Write("Input first number: ");
+            num1 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Input second number: ");
+            num2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(num1+" + "+num2+" = "+num1 + num2);
+            Console.WriteLine(num1+" - "+num2+" = "+(num1 - num2));
+            Console.WriteLine(num1+" x "+num2+" = "+num1 * num2);
+            Console.WriteLine(num1+" / "+num2+" = "+num1 / num2);
+            Console.WriteLine(num1+" mod "+num2+" = "+num1 % num2);
+        }
+        static void EighthExercise(){
+            int num1;
+            Console.Write("Input first number: ");
+            num1 = Convert.ToInt32(Console.ReadLine());
+            for(int i=0;i<=10;i++){
+                Console.WriteLine(num1+" x "+i+" = "+num1*i);
+            }            
+        }
+        static void NinthExercise(){
+            int num1, num2, num3, num4;
+            Console.Write("Input first number: ");
+            num1 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Input second number: ");
+            num2 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Input third number: ");
+            num3 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Input Fourth number: ");
+            num4 = Convert.ToInt32(Console.ReadLine());
+            int output = (num1+num2+num3+num4)/4;
+            Console.WriteLine("The average is "+output);
+        }     
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\orcai\\OneDrive\\Plocha\\C Sharp\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "c:\\Users\\orcai\\OneDrive\\Dokumenty\\git\\C Sharp\\Hello World\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\orcai\\OneDrive\\Plocha\\C Sharp\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "c:\\Users\\orcai\\OneDrive\\Dokumenty\\git\\C Sharp\\Hello World\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\orcai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\orcai\\OneDrive\\Plocha\\C Sharp\\HelloWorld\\obj\\",
+      "outputPath": "c:\\Users\\orcai\\OneDrive\\Dokumenty\\git\\C Sharp\\Hello World\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\orcai\\AppData\\Roaming\\NuGet\\NuGet.Config"
