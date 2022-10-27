@@ -6,7 +6,7 @@ namespace HelloWorld{
     class Program{
         static void Main (string[]args){  
           //This repository follows the https://www.w3resource.com/csharp-exercises/basic/index.php exercises              
-          EighthExercise();        
+          TenthExercise();        
         }
         static void FirstExercise(){            
             var getName = System.Reflection.MethodBase.GetCurrentMethod()!.Name;
@@ -90,6 +90,16 @@ namespace HelloWorld{
             num4 = Convert.ToInt32(Console.ReadLine());
             int output = (num1+num2+num3+num4)/4;
             Console.WriteLine("The average is "+output);
-        }     
+        }   
+        static void TenthExercise(){
+            int x, y, z;
+            Console.Write("Input first number: ");
+            x = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Input second number: ");
+            y = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Input third number: ");
+            z = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Result of specified numbers {0}, {1} and {2}, (x+y)·z is {3} and x·y + y·z is {4}\n\n", x, y, z, ((x+y)*z), (x*y+y*z));
+        }  
     }
 }
