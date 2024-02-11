@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EcrjYbtUh8NM2imZo6KLZZsO+MfRKH1mpuOMHmxMjxeQB5B1amK9/TUPpzb6r6LT3vhjRd/fYJ3QDrlFGaalKw==",
+  "dgSpecHash": "OVJbTOipodut1UmGnw/nucp9eqBtzMzBg0lu6pRTUSPp6OVdi85D0hBTOKAxjzSrOp1ruiFX66fJWhTgPcT0tA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\orcai\\OneDrive\\Dokumenty\\git\\C Sharp\\Hello World\\HelloWorld.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\orcai\\Projects\\CSharp\\C-HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\orcai\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\orcai\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\orcai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\orcai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

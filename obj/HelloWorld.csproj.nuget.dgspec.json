@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\orcai\\OneDrive\\Dokumenty\\git\\C Sharp\\Hello World\\HelloWorld.csproj": {}
+    "C:\\Users\\orcai\\Projects\\CSharp\\C-HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\orcai\\OneDrive\\Dokumenty\\git\\C Sharp\\Hello World\\HelloWorld.csproj": {
+    "C:\\Users\\orcai\\Projects\\CSharp\\C-HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\orcai\\OneDrive\\Dokumenty\\git\\C Sharp\\Hello World\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\orcai\\Projects\\CSharp\\C-HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\orcai\\OneDrive\\Dokumenty\\git\\C Sharp\\Hello World\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\orcai\\Projects\\CSharp\\C-HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\orcai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\orcai\\OneDrive\\Dokumenty\\git\\C Sharp\\Hello World\\obj\\",
+        "outputPath": "C:\\Users\\orcai\\Projects\\CSharp\\C-HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\orcai\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -48,12 +48,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
